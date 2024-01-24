@@ -1,0 +1,96 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to exclude package directories for languages like Node or Python
+node_modules/
+jspm_packages/
+venv/
+env/
+ENV/
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files #
+################################
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.vscode/
+*.esproj
+*.ncb
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.3T
+*.aux
+*.bak
+*.cfg
+*.dot
+*.dotx
+*.tmp
+*.tps
+*.vbw
+*.xlsb
+# End of https://www.toptal.com/developers/gitignore/api/java,node,python,c,c++,sublimetext,visualstudiocode
+
